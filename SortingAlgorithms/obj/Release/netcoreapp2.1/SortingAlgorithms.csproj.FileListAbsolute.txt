@@ -1,0 +1,11 @@
+/home/camilo/Documents/SortingAlgorithms/SortingAlgorithms/bin/Release/netcoreapp2.1/SortingAlgorithms.deps.json
+/home/camilo/Documents/SortingAlgorithms/SortingAlgorithms/bin/Release/netcoreapp2.1/SortingAlgorithms.runtimeconfig.json
+/home/camilo/Documents/SortingAlgorithms/SortingAlgorithms/bin/Release/netcoreapp2.1/SortingAlgorithms.runtimeconfig.dev.json
+/home/camilo/Documents/SortingAlgorithms/SortingAlgorithms/bin/Release/netcoreapp2.1/SortingAlgorithms.dll
+/home/camilo/Documents/SortingAlgorithms/SortingAlgorithms/bin/Release/netcoreapp2.1/SortingAlgorithms.pdb
+/home/camilo/Documents/SortingAlgorithms/SortingAlgorithms/obj/Release/netcoreapp2.1/SortingAlgorithms.csprojAssemblyReference.cache
+/home/camilo/Documents/SortingAlgorithms/SortingAlgorithms/obj/Release/netcoreapp2.1/SortingAlgorithms.csproj.CoreCompileInputs.cache
+/home/camilo/Documents/SortingAlgorithms/SortingAlgorithms/obj/Release/netcoreapp2.1/SortingAlgorithms.AssemblyInfoInputs.cache
+/home/camilo/Documents/SortingAlgorithms/SortingAlgorithms/obj/Release/netcoreapp2.1/SortingAlgorithms.AssemblyInfo.cs
+/home/camilo/Documents/SortingAlgorithms/SortingAlgorithms/obj/Release/netcoreapp2.1/SortingAlgorithms.dll
+/home/camilo/Documents/SortingAlgorithms/SortingAlgorithms/obj/Release/netcoreapp2.1/SortingAlgorithms.pdb
